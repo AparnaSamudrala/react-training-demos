@@ -1,0 +1,17 @@
+p.card-title {
+  font-size: 0.8rem;
+  padding: 0;
+  margin: 0;
+}
+
+.card-body{
+  padding: 0;
+}
+
+.card{
+  border: none;
+}
+
+.card-text{
+  margin: 0;
+}
