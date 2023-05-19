@@ -1,0 +1,40 @@
+.fa {
+    background: #5e5eea;
+    color: #fff;
+}
+
+/* .input-group-append, .input-group-prepend{
+    width: 40px;
+} */
+
+.center{
+	text-align: center;
+	margin: 0 auto;
+}
+
+input[type=submit] {
+    
+    background: #5e5eea;
+
+    color: white;
+    padding: 6px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+.container {
+    border-radius: 5px;
+    background-color: #eedede;
+    clear: both;
+    width: 35%;
+    
+    justify-content: center;
+    margin-top: 3rem;
+    padding: 3rem;
+    
+}
+
+.border-width-2{
+    border-width: 0.2rem;
+}
